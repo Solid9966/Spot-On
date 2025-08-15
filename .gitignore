@@ -27,3 +27,4 @@ yarn-error.log*
 
 # ✅ 기타
 *.log
+**/.idea/
